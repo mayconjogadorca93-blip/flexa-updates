@@ -1,7 +1,1 @@
-{
-    "version":  "0.5.0",
-    "zip":  "https://github.com/mayconjogadorca93-blip/flexa-updates/releases/download/v0.5.0/flexa-update-0.5.0.zip",
-    "sha256":  "4fa7186498f4659a4dedabc9f60f9d475093d631e6d53ca435822c77e7e3c511",
-    "notes":  "Melhorias e correções.",
-    "min":  "0.5.0"
-}
+{"version": "0.5.3", "zip": "https://github.com/mayconjogadorca93-blip/flexa-updates/releases/download/v0.5.3/flexa-update-0.5.3.zip", "sha256": "8a40430683e49c608b95c27583bb1924b04a85976d462b9d2bb2f0a1ee0fa54f", "notes": "Botões para assinar direto na tela de ativação, correção do Groq e Links em H.264.", "min": "0.5.0"}
